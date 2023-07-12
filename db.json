@@ -1,1 +1,272 @@
-{}
+[
+    {
+        "_id": "64af1edba4c842564b7df430",
+        "index": 0,
+        "guid": "ba9e2657-915b-4826-9126-aca64055c899",
+        "isActive": true,
+        "balance": "$1,442.80",
+        "picture": "http://placehold.it/32x32",
+        "age": 28,
+        "eyeColor": "brown",
+        "name": "Nicole Dunlap",
+        "gender": "female",
+        "company": "DIGIQUE",
+        "email": "nicoledunlap@digique.com",
+        "phone": "+1 (919) 419-2061",
+        "address": "829 Morton Street, Groton, Marshall Islands, 4117",
+        "about": "Magna id minim aliquip cillum elit sit amet tempor culpa pariatur. Eiusmod ut et cupidatat mollit duis. Laborum fugiat aliqua eiusmod non elit aute officia deserunt sunt esse nisi eu.\r\n",
+        "registered": "2021-12-07T09:02:14 -06:-30",
+        "latitude": -78.728623,
+        "longitude": 94.363657,
+        "tags": [
+            "ut",
+            "nisi",
+            "dolor",
+            "ex",
+            "officia",
+            "nulla",
+            "sint"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Davenport Peterson"
+            },
+            {
+                "id": 1,
+                "name": "Marjorie Mcdonald"
+            },
+            {
+                "id": 2,
+                "name": "Bertha Carrillo"
+            }
+        ],
+        "greeting": "Hello, Nicole Dunlap! You have 8 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "64af1edb76b4352ba5838eb0",
+        "index": 1,
+        "guid": "822e98ad-67f6-48e9-bb2e-400e21824429",
+        "isActive": true,
+        "balance": "$3,303.65",
+        "picture": "http://placehold.it/32x32",
+        "age": 20,
+        "eyeColor": "blue",
+        "name": "Alexander Nieves",
+        "gender": "male",
+        "company": "INDEXIA",
+        "email": "alexandernieves@indexia.com",
+        "phone": "+1 (804) 471-3670",
+        "address": "797 Essex Street, Leroy, Maine, 2556",
+        "about": "Duis qui laborum laboris proident dolore deserunt. Ea esse occaecat nostrud adipisicing ea veniam incididunt enim excepteur reprehenderit dolore occaecat nisi. Esse elit qui aliquip laborum aliqua fugiat esse do. Dolore voluptate eu labore velit officia aute do pariatur amet quis. In dolore eu officia dolor do. Reprehenderit adipisicing duis fugiat Lorem non incididunt dolore qui. Ad ut duis irure non et do pariatur nostrud eu qui nisi incididunt.\r\n",
+        "registered": "2017-12-27T05:45:27 -06:-30",
+        "latitude": 68.860675,
+        "longitude": -121.86908,
+        "tags": [
+            "id",
+            "excepteur",
+            "mollit",
+            "et",
+            "amet",
+            "irure",
+            "cupidatat"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Mejia Maddox"
+            },
+            {
+                "id": 1,
+                "name": "Freeman Duffy"
+            },
+            {
+                "id": 2,
+                "name": "Cardenas Noble"
+            }
+        ],
+        "greeting": "Hello, Alexander Nieves! You have 6 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "64af1edbbe06c7830263a317",
+        "index": 2,
+        "guid": "66c754f5-7f43-4c60-bde3-6c165b7e76d8",
+        "isActive": true,
+        "balance": "$3,371.00",
+        "picture": "http://placehold.it/32x32",
+        "age": 28,
+        "eyeColor": "blue",
+        "name": "Rebekah Emerson",
+        "gender": "female",
+        "company": "SINGAVERA",
+        "email": "rebekahemerson@singavera.com",
+        "phone": "+1 (866) 515-3786",
+        "address": "468 Minna Street, Trail, Tennessee, 4264",
+        "about": "Duis tempor culpa proident fugiat ad enim non voluptate culpa. Amet sint laboris esse proident ad irure elit magna laboris mollit eiusmod laboris duis. Commodo nisi aliquip elit ea dolor dolor veniam laboris laboris dolore anim aliquip dolore.\r\n",
+        "registered": "2014-05-07T09:49:28 -06:-30",
+        "latitude": 40.796892,
+        "longitude": 138.525295,
+        "tags": [
+            "Lorem",
+            "tempor",
+            "sint",
+            "irure",
+            "in",
+            "duis",
+            "mollit"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Macdonald Ratliff"
+            },
+            {
+                "id": 1,
+                "name": "Ochoa Ellis"
+            },
+            {
+                "id": 2,
+                "name": "Mooney Salazar"
+            }
+        ],
+        "greeting": "Hello, Rebekah Emerson! You have 5 unread messages.",
+        "favoriteFruit": "apple"
+    },
+    {
+        "_id": "64af1edbdaedf75530a0d580",
+        "index": 3,
+        "guid": "425b2e88-0c25-4ed1-b82e-7b2d172160b3",
+        "isActive": true,
+        "balance": "$3,464.98",
+        "picture": "http://placehold.it/32x32",
+        "age": 35,
+        "eyeColor": "blue",
+        "name": "Long Brennan",
+        "gender": "male",
+        "company": "COMDOM",
+        "email": "longbrennan@comdom.com",
+        "phone": "+1 (839) 460-3959",
+        "address": "478 Grattan Street, Wiscon, New Mexico, 8896",
+        "about": "Ea veniam do est laborum fugiat excepteur velit nisi enim eu consectetur id magna ullamco. Ullamco eu reprehenderit deserunt id minim sit dolore sit. Exercitation duis nostrud deserunt tempor. Mollit incididunt nisi non ut dolor ut consequat. Nulla fugiat dolore nulla do ea nulla consectetur deserunt excepteur esse sunt est. Quis aliqua cupidatat qui magna. Tempor consequat ut irure tempor laboris est labore.\r\n",
+        "registered": "2017-03-24T04:29:22 -06:-30",
+        "latitude": -84.826519,
+        "longitude": 17.653478,
+        "tags": [
+            "ea",
+            "aliqua",
+            "ullamco",
+            "non",
+            "do",
+            "elit",
+            "excepteur"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Robertson Roman"
+            },
+            {
+                "id": 1,
+                "name": "Norris Hubbard"
+            },
+            {
+                "id": 2,
+                "name": "Terrie Best"
+            }
+        ],
+        "greeting": "Hello, Long Brennan! You have 7 unread messages.",
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "_id": "64af1edbcdc7520f096ca81d",
+        "index": 4,
+        "guid": "5dc2bf48-7987-49d5-b874-5b4422e20180",
+        "isActive": false,
+        "balance": "$3,317.15",
+        "picture": "http://placehold.it/32x32",
+        "age": 36,
+        "eyeColor": "blue",
+        "name": "Candy Mcmahon",
+        "gender": "female",
+        "company": "BISBA",
+        "email": "candymcmahon@bisba.com",
+        "phone": "+1 (962) 468-2201",
+        "address": "613 Canal Avenue, Foscoe, West Virginia, 9078",
+        "about": "Deserunt aliquip ipsum ex fugiat commodo amet dolore nostrud fugiat eu ea incididunt. Voluptate duis duis dolore amet ex magna. Ipsum sit laborum nulla do nulla consectetur. Culpa veniam consequat proident labore ad officia. Ut nisi pariatur amet sint minim nostrud nulla officia ullamco aliqua in nisi.\r\n",
+        "registered": "2023-05-17T07:58:39 -06:-30",
+        "latitude": -13.502967,
+        "longitude": 126.920084,
+        "tags": [
+            "elit",
+            "deserunt",
+            "consequat",
+            "aliquip",
+            "est",
+            "pariatur",
+            "magna"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Dillard Moody"
+            },
+            {
+                "id": 1,
+                "name": "Valdez West"
+            },
+            {
+                "id": 2,
+                "name": "Myers Hart"
+            }
+        ],
+        "greeting": "Hello, Candy Mcmahon! You have 7 unread messages.",
+        "favoriteFruit": "apple"
+    },
+    {
+        "_id": "64af1edb66f80ea11c3b0e6d",
+        "index": 5,
+        "guid": "5f442791-40ae-450d-ab7e-1e47a3c295d3",
+        "isActive": true,
+        "balance": "$1,574.73",
+        "picture": "http://placehold.it/32x32",
+        "age": 38,
+        "eyeColor": "blue",
+        "name": "Carlene Moses",
+        "gender": "female",
+        "company": "PROVIDCO",
+        "email": "carlenemoses@providco.com",
+        "phone": "+1 (842) 504-2698",
+        "address": "727 Roosevelt Court, Brenton, Utah, 6442",
+        "about": "Occaecat esse veniam ipsum qui qui consectetur dolor incididunt laborum enim consequat dolore. Occaecat culpa pariatur laboris et magna voluptate consequat laborum excepteur mollit ea in. Sit dolore ullamco culpa culpa. Duis qui deserunt incididunt aliquip veniam ea.\r\n",
+        "registered": "2019-02-21T08:15:11 -06:-30",
+        "latitude": -11.353198,
+        "longitude": 41.577693,
+        "tags": [
+            "et",
+            "aliquip",
+            "sit",
+            "nostrud",
+            "cupidatat",
+            "et",
+            "esse"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Martha Reeves"
+            },
+            {
+                "id": 1,
+                "name": "Mcintosh Wiggins"
+            },
+            {
+                "id": 2,
+                "name": "Keller Walter"
+            }
+        ],
+        "greeting": "Hello, Carlene Moses! You have 1 unread messages.",
+        "favoriteFruit": "strawberry"
+    }
+]
